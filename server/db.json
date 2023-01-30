@@ -1,0 +1,27 @@
+{
+  "candidato": {
+    "mensaje": "Bienvenido",
+    "nombre": "Juan Carlos Hernández Ramírez",
+    "appVersion": "1.0.0"
+  },
+  "proveedores": [
+    {
+      "nombre": "Carlo 5",
+      "rasonsocial": "Remo",
+      "direccion": "Derrr 2",
+      "id": 10
+    },
+    {
+      "nombre": "Carlos 55",
+      "rasonsocial": "Demo razon",
+      "direccion": "NA",
+      "id": 14
+    },
+    {
+      "nombre": "Carlos ",
+      "rasonsocial": "Nueva razon social",
+      "direccion": "Av 111",
+      "id": 16
+    }
+  ]
+}
