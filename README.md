@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Para instalar las dependencias 
 ### `npm install`
 
+Install JSON Server
+npm install -g json-server
+
 Antes de ejecutar 'npm start' debe correr el siguiente comando para levantar el 'json-server' db.json, 
 donde esta la información del candidato y la lista de proveedores, para el consumo de la API
 ### `npm run serverAPI`
